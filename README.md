@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Goeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goeun&theme=swift&show_icons=true=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={serall93})](https://solved.ac/{sera1193}/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sera1193)](https://solved.ac/sera1193)
