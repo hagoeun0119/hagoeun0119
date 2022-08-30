@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b6cac0&height=250&section=header&text=Goeun%20&fontColor=371722&fontSize=60)
-![Goeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagoeun0119&show_icons=true&theme=swift)
+![Goeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagoeun0119&show_icons=true&theme=defalut)
 const themes = {
   default: {
     title_color: "2f80ed",
