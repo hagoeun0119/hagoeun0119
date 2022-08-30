@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b6cac0&height=250&section=header&text=Goeun%20&fontColor=371722&fontSize=60)
 <!--![Goeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagoeun0119&show_icons=true&theme=graywhite)-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sera1193)](https://solved.ac/sera1193)
-<img src="http://mazandi.herokuapp.com/api?handle={sera1193}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=sera1193&theme=warm"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagoeun0119&layout=compact)](https://github.com/hagoeun0119/github-readme-stats)
