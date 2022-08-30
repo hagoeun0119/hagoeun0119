@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#3D3A35&height=300&section=header&text=capsule%20render&fontSize=90" />
 ![Goeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagoeun0119&show_icons=true&theme=swift)
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sera1193)](https://solved.ac/sera1193)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagoeun0119&layout=compact)](https://github.com/hagoeun0119/github-readme-stats)
