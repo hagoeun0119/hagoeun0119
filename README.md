@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hagoeun0119/hagoeun0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3D3A35&height=300&section=header&text=capsule%20render&fontSize=90" />
-![header](https://capsule-render.vercel.app/api?height=400)
+![header](https://capsule-render.vercel.app/api?height=300)
 ![header](https://capsule-render.vercel.app/api?text=Goeun)
-![Goeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagoeun0119&show_icons=true&theme=swift)
+[![Goeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagoeun0119&show_icons=true&theme=swift)]
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sera1193)](https://solved.ac/sera1193)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagoeun0119&layout=compact)](https://github.com/hagoeun0119/github-readme-stats)
