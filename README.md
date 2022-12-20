@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sera1193)](https://solved.ac/sera1193)
 <br>
 <img src="http://mazandi.herokuapp.com/api?handle=sera1193&theme=warm"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagoeun0119&layout=compact)](https://github.com/hagoeun0119/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagoeun0119&layout=compact)](https://github.com/hagoeun0119/github-readme-stats)-->
