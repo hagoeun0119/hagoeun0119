@@ -12,16 +12,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ⭐ HA GO EUN 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=167c80&height=250&section=header&text=Hi%20&fontColor=f9f7e8&fontSize=60) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=CA8D89&height=300&section=header&text=Goeun%20Ha&fontColor=78574B&fontSize=60)
 <!--![Goeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagoeun0119&show_icons=true&theme=graywhite)-->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sera1193)](https://solved.ac/sera1193) -->
 <br>
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=sera1193&theme=warm"/> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagoeun0119&layout=compact)](https://github.com/hagoeun0119/github-readme-stats) -->
 
-🌱 I’m currently learning ...
-<!-- ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상) -->
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+<div align="center">
+   
+ <!-- <h3> 🌟 Technology stack 🌟 </h3>
+  <img src="https://img.shields.io/badge/Python-3376AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <br>
+
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
+  <br>  -->
+
+
+  <h3> 📚 Study 📚 </h3>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
+  <br>
+  
+  <!-- <h3> ⚒️ Tool ⚒️ </h3>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+  -->
+  <br>
+  
+</div>
