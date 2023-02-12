@@ -40,11 +40,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
   <br>
   
-  <!-- <h3> ⚒️ Tool ⚒️ </h3>
+  <h3> ⚒️ Tool ⚒️ </h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
-  -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+  
   <br>
   
 </div>
