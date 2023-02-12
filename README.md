@@ -48,4 +48,4 @@ Here are some ideas to get you started:
   
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CA8D89&height=200&section=footer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CA8D89&height=150&section=footer&fontSize=90" />
