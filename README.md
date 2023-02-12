@@ -31,8 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
   <br>
-
-
+ 
   <h3> 📚 Study 📚 </h3>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -48,3 +47,5 @@ Here are some ideas to get you started:
   <br>
   
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CA8D89&height=200&section=footer&fontSize=90" />
