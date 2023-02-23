@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CA8D89&height=300&section=header&text=Goeun%20Ha&fontColor=78574B&fontSize=60)
 <!--![Goeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagoeun0119&show_icons=true&theme=graywhite)-->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sera1193)](https://solved.ac/sera1193) -->
+<!--  -->
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=sera1193&theme=warm"/> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagoeun0119&layout=compact)](https://github.com/hagoeun0119/github-readme-stats) -->
 
 <div align="center">
+   
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sera1193)](https://solved.ac/sera1193)
    
   <h3> 🌟 Technology 🌟 </h3>
   <img src="https://img.shields.io/badge/Python-3376AB?style=flat&logo=Python&logoColor=white"/>
@@ -45,7 +47,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   
   <br>
-  
 </div>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CA8D89&height=150&section=footer&fontSize=90" />
