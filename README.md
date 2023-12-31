@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 - I like to develop various things, especially **Server**.
 - Recently, I'm learning **Spring, Data Analysis**.
 
-</br>
-
 <h2> Project </h2>
 
 - **POCHAK**, Share moments captured by other (2023.03 ~)
-
-</br>
 
 <h2> Experience </h2>
 
@@ -32,6 +28,10 @@ Here are some ideas to get you started:
 - Sookmyung Apps(Mobile Application Development Club), 9th Member (2022.03 ~ )
 - Sookmyung Women's Unniversity, Computer Science (2021.03 ~ )
 
+</br>
+
+<a href="www.linkedin.com/in/goeunha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="mailto:hagoeun0119@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
 <!--
   <img src="https://img.shields.io/badge/Python-3376AB?style=flat&logo=Python&logoColor=white"/>
