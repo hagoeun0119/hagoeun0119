@@ -12,17 +12,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=CA8D89&height=300&section=header&text=Goeun%20Ha&fontColor=78574B&fontSize=60)
-<!--![Goeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagoeun0119&show_icons=true&theme=graywhite)-->
-<!--  -->
-<!-- <img src="http://mazandi.herokuapp.com/api?handle=sera1193&theme=warm"/> -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagoeun0119&layout=compact)](https://github.com/hagoeun0119/github-readme-stats) -->
+<h2> About Me </h2>
 
-<div align="center">
-   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sera1193)](https://solved.ac/sera1193)
-   
-  <h3> 🌟 Technology 🌟 </h3>
+- I majored in **Computer Science**.
+- I like to develop various things, especially **Server**.
+- Recently, I'm learning **Spring, Data Analysis**.
+
+</br>
+
+<h2> Project </h2>
+
+- **POCHAK**, Share moments captured by other (2023.03 ~)
+
+</br>
+
+<h2> Experience </h2>
+
+- GDSC(Google Developer Student Clubs) Sookmyung, Core Memeber (2023.09 ~ )
+- Sookmyung Apps(Mobile Application Development Club), 9th Member (2022.03 ~ )
+- Sookmyung Women's Unniversity, Computer Science (2021.03 ~ )
+
+
+<!--
   <img src="https://img.shields.io/badge/Python-3376AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -32,21 +43,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <br>
- 
-  <h3> 📚 Study 📚 </h3>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  <br>
-  
-  <h3> ⚒️ Tool ⚒️ </h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-  
-  <br>
-</div>
+ -->
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CA8D89&height=150&section=footer&fontSize=90" />
