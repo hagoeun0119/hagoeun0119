@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <h2> Project </h2>
 
 - **POCHAK**, Share moments captured by other (2023.03 ~)
+- **Meta-Dataset Project** (2023.05 ~)
 
 <h2> Experience </h2>
 
