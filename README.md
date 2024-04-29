@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 <h2> Experience </h2>
 
+- Medilux, 21th Backend Developer (2024.03 ~)
 - GDSC(Google Developer Student Clubs) Sookmyung, Core Memeber (2023.09 ~ )
 - Sookmyung Apps(Mobile Application Development Club), 9th Member (2022.03 ~ )
 - Sookmyung Women's Unniversity, Computer Science (2021.03 ~ )
