@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <h2> Project </h2>
 
+- **Dough**, A Project for Burned-Out People (2024.03 ~ )
 - **BeyondVision**, analyze exercise videos taken by the camera in real time (2024.01 ~ )
 - **POCHAK**, Share moments captured by other (2023.05 ~)
 - **Meta-Dataset Creation Method for Classification and Search of Open Datasets** (2023.05 ~ 2024.02)
