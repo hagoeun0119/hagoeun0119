@@ -1,22 +1,22 @@
 <h2> Project </h2>
 
-- Plog, Plogging Application Development Project Based on Microservices Architecture (2024. 4 ~ 2024. 12)
-- Dough, A Project for Burned-Out People (2024. 3 ~ )
-- BeyondVision, analyze exercise videos taken by the camera in real time (2023. 12 ~ 2024. 5)
-- POCHAK, Share moments captured by other (2023. 5 ~ 2024. 3)
-- Meta-Dataset Creation Method for Classification and Search of Open Datasets (2023. 5 ~ 2024. 2)
+- Plog, Plogging Application Development Project Based on Microservices Architecture (2024.04 - 2024.12)
+- Dough, A Project for Burned-Out People (2024.03 - )
+- BeyondVision, analyze exercise videos taken by the camera in real time (2023.12 - 2024.05)
+- POCHAK, Share moments captured by other (2023.05 - 2024.03)
+- Meta-Dataset Creation Method for Classification and Search of Open Datasets (2023.05 - 2024.02)
 
 <h2> Experience </h2>
 
-- Medilux, 21th Backend Developer (2024. 3 ~ 2024. 12)
-- GDSC(Google Developer Student Clubs) Sookmyung, Core Memeber (2023. 9 ~ 2024. 6)
-- Sookmyung Apps(Mobile Application Development Club), 9th Member (2022. 3 ~ 2024. 3)
-- Sookmyung Women's Unniversity, Computer Science (2021.03 ~ )
+- Medilux, 21th Backend Developer (2024.03 - 2024.12)
+- GDSC(Google Developer Student Clubs) Sookmyung, Core Memeber (2023.09 - 2024.06)
+- Sookmyung Apps(Mobile Application Development Club), 9th Member (2022.03 - 2024.03)
+- Sookmyung Women's Unniversity, Computer Science (2021.03 - )
 
 <h2> Awards </h2>
 
-- First Place (Minister of Science and ICT Award), 8th K-PaaS Cloud Service Development Idea Contest (2024. 12)
-- Second Place, SWITCH (SW/AI Joint Startup Competition) (2024. 9)
+- First Place (Minister of Science and ICT Award), 8th K-PaaS Cloud Service Development Idea Contest (2024.12)
+- Second Place, SWITCH (SW/AI Joint Startup Competition) (2024.09)
 
 
 <!--
